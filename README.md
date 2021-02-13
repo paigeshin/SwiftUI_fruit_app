@@ -2,6 +2,8 @@
 
 [Link](https://www.notion.so/Fruits-d71be810df4047038f7c04fb0cee6270)
 
+[Fruits UI Library](https://www.notion.so/Fruits-UI-Library-e41b1d75fc314ad1a8c9ce1c57991548)
+
 # Tips
 
 - SwiftUI 코드를 볼 때 화면하고 같이 보면 좋다.
